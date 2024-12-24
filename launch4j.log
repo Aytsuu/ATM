@@ -1,0 +1,174 @@
+
+
+Version:	3.50
+CmdLine:	C:\NetBeansProjects\atm\Aytsu.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\NetBeansProjects\atm\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.000.004
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Python311\Scripts\;C:\Program Files\Python311\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-20\bin;C:\Program Files\Webdriver;C:\Users\patty\AppData\Local\Microsoft\WindowsApps;C:\Users\patty\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\patty\AppData\Local\Program Files\Python311;C:\Users\patty\AppData\Roaming\Program Files\Python311\Scripts;C:\Program Files (x86)\Inno Setup 6;C:\Program Files\Java\jdk-20\bin
+JRE paths:	;C:\Program Files\Python311\Scripts\;C:\Program Files\Python311\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-20\bin;C:\Program Files\Webdriver;C:\Users\patty\AppData\Local\Microsoft\WindowsApps;C:\Users\patty\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\patty\AppData\Local\Program Files\Python311;C:\Users\patty\AppData\Roaming\Program Files\Python311\Scripts;C:\Program Files (x86)\Inno Setup 6;C:\Program Files\Java\jdk-20\bin
+Check launcher:	C:\Program Files\Python311\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Python311\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-20\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-20\bin\javac.exe (OK)
+Version string: 1.020.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-20\bin\javaw.exe
+Launcher args:	-jar "C:\NetBeansProjects\atm\Aytsu.exe"
+Args length:	40/32768 chars
+Exit code:	1
+
+
+Version:	3.50
+CmdLine:	C:\NetBeansProjects\atm\Atm.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\NetBeansProjects\atm\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.000.004
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Python311\Scripts\;C:\Program Files\Python311\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-20\bin;C:\Program Files\Webdriver;C:\Users\patty\AppData\Local\Microsoft\WindowsApps;C:\Users\patty\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\patty\AppData\Local\Program Files\Python311;C:\Users\patty\AppData\Roaming\Program Files\Python311\Scripts;C:\Program Files (x86)\Inno Setup 6;C:\Program Files\Java\jdk-20\bin
+JRE paths:	;C:\Program Files\Python311\Scripts\;C:\Program Files\Python311\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-20\bin;C:\Program Files\Webdriver;C:\Users\patty\AppData\Local\Microsoft\WindowsApps;C:\Users\patty\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\patty\AppData\Local\Program Files\Python311;C:\Users\patty\AppData\Roaming\Program Files\Python311\Scripts;C:\Program Files (x86)\Inno Setup 6;C:\Program Files\Java\jdk-20\bin
+Check launcher:	C:\Program Files\Python311\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Python311\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-20\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-20\bin\javac.exe (OK)
+Version string: 1.020.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-20\bin\javaw.exe
+Launcher args:	-jar "C:\NetBeansProjects\atm\Atm.exe"
+Args length:	38/32768 chars
+Exit code:	1
+
+
+Version:	3.50
+CmdLine:	C:\NetBeansProjects\atm\Atm.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\NetBeansProjects\atm\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.000.004
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Python311\Scripts\;C:\Program Files\Python311\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-20\bin;C:\Program Files\Webdriver;C:\Users\patty\AppData\Local\Microsoft\WindowsApps;C:\Users\patty\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\patty\AppData\Local\Program Files\Python311;C:\Users\patty\AppData\Roaming\Program Files\Python311\Scripts;C:\Program Files (x86)\Inno Setup 6;C:\Program Files\Java\jdk-20\bin
+JRE paths:	;C:\Program Files\Python311\Scripts\;C:\Program Files\Python311\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-20\bin;C:\Program Files\Webdriver;C:\Users\patty\AppData\Local\Microsoft\WindowsApps;C:\Users\patty\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\patty\AppData\Local\Program Files\Python311;C:\Users\patty\AppData\Roaming\Program Files\Python311\Scripts;C:\Program Files (x86)\Inno Setup 6;C:\Program Files\Java\jdk-20\bin
+Check launcher:	C:\Program Files\Python311\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Python311\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-20\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-20\bin\javac.exe (OK)
+Version string: 1.020.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-20\bin\javaw.exe
+Launcher args:	-jar "C:\NetBeansProjects\atm\Atm.exe"
+Args length:	38/32768 chars
+Exit code:	1
+
+
+Version:	3.50
+CmdLine:	C:\NetBeansProjects\atm\Atm.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\NetBeansProjects\atm\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.000.004
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Python311\Scripts\;C:\Program Files\Python311\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-20\bin;C:\Program Files\Webdriver;C:\Users\patty\AppData\Local\Microsoft\WindowsApps;C:\Users\patty\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\patty\AppData\Local\Program Files\Python311;C:\Users\patty\AppData\Roaming\Program Files\Python311\Scripts;C:\Program Files (x86)\Inno Setup 6;C:\Program Files\Java\jdk-20\bin
+JRE paths:	;C:\Program Files\Python311\Scripts\;C:\Program Files\Python311\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-20\bin;C:\Program Files\Webdriver;C:\Users\patty\AppData\Local\Microsoft\WindowsApps;C:\Users\patty\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\patty\AppData\Local\Program Files\Python311;C:\Users\patty\AppData\Roaming\Program Files\Python311\Scripts;C:\Program Files (x86)\Inno Setup 6;C:\Program Files\Java\jdk-20\bin
+Check launcher:	C:\Program Files\Python311\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Python311\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-20\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-20\bin\javac.exe (OK)
+Version string: 1.020.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-20\bin\javaw.exe
+Launcher args:	-jar "C:\NetBeansProjects\atm\Atm.exe"
+Args length:	38/32768 chars
+Exit code:	1
+
+
+Version:	3.50
+CmdLine:	C:\NetBeansProjects\atm\Aytsuu.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\NetBeansProjects\atm\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.000.004
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Python311\Scripts\;C:\Program Files\Python311\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-20\bin;C:\Program Files\Webdriver;C:\Users\patty\AppData\Local\Microsoft\WindowsApps;C:\Users\patty\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\patty\AppData\Local\Program Files\Python311;C:\Users\patty\AppData\Roaming\Program Files\Python311\Scripts;C:\Program Files (x86)\Inno Setup 6;;C:\Program Files\Java\jdk-20\bin
+JRE paths:	;C:\Program Files\Python311\Scripts\;C:\Program Files\Python311\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-20\bin;C:\Program Files\Webdriver;C:\Users\patty\AppData\Local\Microsoft\WindowsApps;C:\Users\patty\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\patty\AppData\Local\Program Files\Python311;C:\Users\patty\AppData\Roaming\Program Files\Python311\Scripts;C:\Program Files (x86)\Inno Setup 6;;C:\Program Files\Java\jdk-20\bin
+Check launcher:	C:\Program Files\Python311\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Python311\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-20\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-20\bin\javac.exe (OK)
+Version string: 1.020.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-20\bin\javaw.exe
+Launcher args:	-jar "C:\NetBeansProjects\atm\Aytsuu.exe"
+Args length:	41/32768 chars
+Exit code:	1
+
+
+Version:	3.50
+CmdLine:	C:\NetBeansProjects\atm\Aytsuu.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\NetBeansProjects\atm\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.000.004
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Python311\Scripts\;C:\Program Files\Python311\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-20\bin;C:\Program Files\Webdriver;C:\Users\patty\AppData\Local\Microsoft\WindowsApps;C:\Users\patty\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\patty\AppData\Local\Program Files\Python311;C:\Users\patty\AppData\Roaming\Program Files\Python311\Scripts;C:\Program Files (x86)\Inno Setup 6;;C:\Program Files\Java\jdk-20\bin
+JRE paths:	;C:\Program Files\Python311\Scripts\;C:\Program Files\Python311\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-20\bin;C:\Program Files\Webdriver;C:\Users\patty\AppData\Local\Microsoft\WindowsApps;C:\Users\patty\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\patty\AppData\Local\Program Files\Python311;C:\Users\patty\AppData\Roaming\Program Files\Python311\Scripts;C:\Program Files (x86)\Inno Setup 6;;C:\Program Files\Java\jdk-20\bin
+Check launcher:	C:\Program Files\Python311\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Python311\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-20\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-20\bin\javac.exe (OK)
+Version string: 1.020.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-20\bin\javaw.exe
+Launcher args:	-jar "C:\NetBeansProjects\atm\Aytsuu.exe"
+Args length:	41/32768 chars
+Exit code:	1
